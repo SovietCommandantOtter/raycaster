@@ -1,0 +1,12 @@
+package xyz.sovietcommandantotter;
+/**@author Jack Pirone
+ * @version 1.0
+ * 
+ **/
+
+public class loadMap {
+	
+	public byte importMap() {
+		
+	}
+}
