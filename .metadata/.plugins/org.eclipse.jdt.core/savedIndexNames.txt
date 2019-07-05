@@ -13,7 +13,6 @@ INDEX VERSION 1.131+C:\Users\Jack\Desktop\Workspace\.metadata\.plugins\org.eclip
 1274545716.index
 1044230057.index
 2047344423.index
-1569174331.index
 2840102439.index
 2955954938.index
 1078848896.index
